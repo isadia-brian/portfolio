@@ -22,8 +22,9 @@ A modern, performance-focused developer portfolio built with Next.js and Tailwin
 
 #### 🏁 Getting Started
 
-Prerequisites
-[Node.js](https://nodejs.org/) installed on your machine
+_Prerequisites_:
+
+- [Node.js](https://nodejs.org/) installed on your machine
 
 ```bash
 git clone https://github.com/isadia-brian/portfolio.git
